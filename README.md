@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gkfkgkdh@naver.com**
 
-- ⚡ Fun fact **I have a deeper passion for a wider range of fields than others might expect**
+- ⚡ Fun fact **I have a deeper passion for a narrower range of fields than others might expect**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
