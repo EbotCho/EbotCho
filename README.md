@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebot&label=Profile%20views&color=0e75b6&style=flat" alt="ebot" /> </p>
 
-- 🔭 I’m currently working on [Proj_ShootingStar](https://github.com/EbotCho/Proj_ShootingStar)
+- 🔭 I’m currently working on [Proj_ShootingStar](https://github.com/EbotCho/Proj_ShootingStar), [AI_Project_CoRLHF](https://github.com/eunjuyummy/AI_Project_CoRLHF)
 
 - 🌱 I’m currently learning **Data analysis**
-
-- 👯 I’m looking to collaborate on [AI_Project_CoRLHF](https://github.com/eunjuyummy/AI_Project_CoRLHF)
 
 - 🤝 My Notion link [Notion](https://diamond-fire-2f3.notion.site/weekly-schedule-0865d8bb39644e9082b8c732c41da83a?pvs=4)
 
