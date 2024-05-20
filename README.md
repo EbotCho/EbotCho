@@ -29,7 +29,8 @@ updated:@May 20, 2024
 
 
 <br>
-  # ⚡Certificate
+  <h3>⚡Certificate</h3>
+  
   * Advanced Data Analytics Semi-Professional '23.09.15
   
   * DP-900 : Microsoft Azuer Data Fundamentals '24.02.23
