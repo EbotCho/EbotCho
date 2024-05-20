@@ -1,7 +1,47 @@
-<h1 align="left">Hi 👋, I'm EbotCho</h1>
+<h1 align="left">Hi 👋, I'm EbotCho(조현진)</h1>
 <h3 align="left">Data science student from SouthKorea</h3>
 
+updated:@May 20, 2024
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebot&label=Profile%20views&color=0e75b6&style=flat" alt="ebot" /> </p>
+
+- 🌱<h4>Sign Language Translation</h4>
+
+  * Open CV
+  * Gated Transformer Networks
+  * Python
+
+- 🌱 <h4>CoRLHF (Reinforcement Learning)</h4>
+
+  * OpenAI gym
+  * RLIF
+  * RLHF
+  * Python
+ 
+- 🌱 <h4>Enhanced forecasting of electricity demand for apartment buildings based on weather conditions</h4>
+
+  * Temporal Fusion transformer
+  * LSTM
+  * Python
+
+
+
+<br>
+  # ⚡Certificate
+  * Advanced Data Analytics Semi-Professional '23.09.15
+  
+  * DP-900 : Microsoft Azuer Data Fundamentals '24.02.23
+    
+  * AZ-900 : Microsoft Azure Fundamentals '24.02.23
+    
+  * TOEIC 780
+
+
+<br>
+<br>
+<br>
+
 
 - 🔭 I’m currently working on [Proj_ShootingStar](https://github.com/EbotCho/Proj_ShootingStar), [AI_Project_CoRLHF](https://github.com/eunjuyummy/AI_Project_CoRLHF)
 
