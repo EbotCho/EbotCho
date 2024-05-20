@@ -2,9 +2,10 @@
 <h3 align="left">Data science student from SouthKorea</h3>
 
 updated:@May 20, 2024
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebot&label=Profile%20views&color=0e75b6&style=flat" alt="ebot" /> </p>
+
+# Projects
+
 
 - 🌱<h4>Sign Language Translation</h4>
 
